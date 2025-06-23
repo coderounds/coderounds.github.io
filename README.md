@@ -2,7 +2,7 @@
 portfolio
 #  Mary Kanyingi - Portfolio Task
 ​
-(link_to_your_site)
+https://coderounds.github.io/
 ​
 ## Project Requirements
 
@@ -44,4 +44,4 @@ I included at least two (…almost. fully) developed web pages, structured with 
 > 
 > You can do this by saving the images in a folder in your repo, and including them in your readme document with the following Markdown code: 
 
-
+Available in images folder.
